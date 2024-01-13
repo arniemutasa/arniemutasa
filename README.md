@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arniemutasa&label=Profile%20views&color=0e75b6&style=flat" alt="arniemutasa" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://arniemutasa.com](http://arniemutasa.com)
-
 - 📝 I occasionally write articles on [https://medium.com/@arniemutasa](https://medium.com/@arniemutasa)
 
 - 💬 Ask me about **Node JS, Express, Golang, Javascript, Typescript**
